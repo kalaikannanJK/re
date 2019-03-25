@@ -1,5 +1,5 @@
-#include <stdio.h>
-int main(void) 
+#include <stdio.h> 
+void main()
 {
 int n,remainder,sum=0;
 n=350;
